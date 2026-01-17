@@ -10,14 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Generate GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          username: ${{ github.repository_owner }}
+          card: 'stats'
           token: ${{ secrets.GH_TOKEN }}
           path: generated/stats.svg
-          options: 'theme=radical&show_icons=true&hide_border=true'
+          options: 'username=${{ github.repository_owner }}&theme=radical&show_icons=true&hide_border=true'
 
       - name: Commit and Push
         run: |
