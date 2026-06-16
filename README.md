@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Guang Zhang;A+passionate+learner;Building+awesome+stuff;Let's+explore+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Guang+Zhang;A+passionate+learner;Building+awesome+stuff;Let's+explore+together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,15 +51,10 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zhuiguang49&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuiguang49&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zhuiguang49&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
