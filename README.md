@@ -7,7 +7,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  👋 Hello! I'm a third-year student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. My interests lie in machine learning and LLM post training.
+  👋 Hello! I'm a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. My interests lie in machine learning and LLM post training.
 </p>
 
 
