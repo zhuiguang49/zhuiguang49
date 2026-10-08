@@ -7,7 +7,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  👋 Hello! I'm a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. My interests lay in machine learning and LLM post training before. I will join [ZIP Lab](https://ziplab.co/) in Zhejiang University as a master student and focus on the co-design of efficient AI algorithms and systems.
+  👋 Hello! I'm a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. My interests lay in machine learning and LLM post training before. I will join <a href="https://ziplab.co/">ZIP Lab</a> in Zhejiang University as a master student and focus on the co-design of efficient AI algorithms and systems.
 </p>
 
 
