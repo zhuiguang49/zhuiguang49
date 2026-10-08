@@ -7,14 +7,14 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  👋 Hello! I'm a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. My interests lie in machine learning and LLM post training.
+  👋 Hello! I'm a senior undergraduate student majoring in Information and Computing Science at the School of Mathematical Sciences, Zhejiang University. My interests lay in machine learning and LLM post training before. I will join [ZIP Lab](https://ziplab.co/) in Zhejiang University as a master student and focus on the co-design of efficient AI algorithms and systems.
 </p>
 
 
 <p align="center">
   💬 <strong>How to reach me:</strong><br>
   <br>
-  📧 Email: guangzhang@zju.edu.cn<br>
+  📧 Email: guangzhang@zju.edu.cn, zhuiguang49@gmail.com<br>
 </p>
 
 ---
